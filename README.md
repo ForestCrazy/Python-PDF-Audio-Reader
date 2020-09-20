@@ -1,6 +1,6 @@
 ﻿# Python-PDF-Audio-Reader
 
-## :arrow_down: Install pytube
+## :arrow_down: Install
 ```
 pip install PyPDF2
 pip install pyttsx3
